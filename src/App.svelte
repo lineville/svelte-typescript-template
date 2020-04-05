@@ -22,4 +22,5 @@
 
 <main>
   <h1>Svelte TypeScript BoilerPlate!</h1>
+  <h3>Start building your app by adding to src/App.svelte</h3>
 </main>
